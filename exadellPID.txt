@@ -1,1 +1,2 @@
+Get-Process | Out-File -Filepath .\Process_list1.txt
 
